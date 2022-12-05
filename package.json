@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "firebase": "^9.14.0"
+  },
+  "name": "web_binder_app",
+  "version": "1.0.0",
+  "description": "binder app for web browser",
+  "private": true,
+  "devDependencies": {
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.0"
+  },
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Deshawn Delice",
+  "license": "ISC"
+}
